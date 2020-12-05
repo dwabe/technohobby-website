@@ -35,6 +35,5 @@
     "nu-html-checker": "0.1.0",
     "onchange": "7.1.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
